@@ -1,0 +1,25 @@
+{
+  "name": "firebase-backend",
+  "version": "1.0.0",
+  "description": "This is the firebase backend to handle db data and apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.10.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^9.1.1",
+    "ts-node": "^10.2.1",
+    "twilio": "^3.71.1",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13"
+  }
+}
