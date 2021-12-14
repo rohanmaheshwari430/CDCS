@@ -1,5 +1,5 @@
-**Customer Driver Communications Service**
-Developed by Rohan Maheshwari, Jenny Gibson, and Elan Grossman under The Home Depot OrangeWorks Innovation Lab.
+# **Customer Driver Communications Service**
+## Developed by Rohan Maheshwari, Jenny Gibson, and Elan Grossman under The Home Depot OrangeWorks Innovation Lab.
 
 The Customer Driver Communications Service (CDCS) is an API developed to allow delivery drivers to communicate
 with customers for the duration of a delivery. There are several features such as anonymous messaging,
