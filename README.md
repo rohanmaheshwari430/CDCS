@@ -9,5 +9,3 @@ delivering orders to customers.
 
 For more information, please refer to the CDCS_Report document, where the project background and technologies are outlined.
 
-*This is a copy of the original repository which is stored in the enterprise repository on Home Depot servers*
-
